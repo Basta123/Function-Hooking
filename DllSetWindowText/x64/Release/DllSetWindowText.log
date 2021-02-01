@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library D:\VSProjects19\DllSetWindowText\x64\Release\DllSetWindowText.lib and object D:\VSProjects19\DllSetWindowText\x64\Release\DllSetWindowText.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DllSetWindowText.vcxproj -> D:\VSProjects19\DllSetWindowText\x64\Release\DllSetWindowText.dll
